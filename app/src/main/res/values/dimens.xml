@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_btn">70dp</dimen>
+    <dimen name="size_left_one">70dp</dimen>
+    <dimen name="size_left_two">140dp</dimen>
+    <dimen name="size_left_three">210dp</dimen>
+    <dimen name="size_left_four">280dp</dimen>
+</resources>
